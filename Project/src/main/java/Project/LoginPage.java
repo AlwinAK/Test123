@@ -220,3 +220,8 @@ public class LoginPage extends javax.swing.JFrame {
     private javax.swing.JPasswordField passwordInput;
     // End of variables declaration//GEN-END:variables
 }
+
+
+//Sources:
+//https://www.youtube.com/watch?v=gCdj9OPAeT8 -The main source for the login page
+//https://stackoverflow.com/questions/2839321/connect-java-to-a-mysql-database
